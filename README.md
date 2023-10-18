@@ -2,6 +2,6 @@
 
 
 
-- 🔭 Estudante do segundo periodo de computação
-- 🌱 Sempre escutando música 
+- 👾 Estudante do segundo periodo de computação
+- 🔭 Sempre escutando música 
 
