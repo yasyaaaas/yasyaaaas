@@ -1,4 +1,4 @@
-### Oi, eu sou a Yasmin Viegas 👋
+### Oi, eu sou a Yasmin Viegas!
 
 <!--
 **yasyaaaas/yasyaaaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
