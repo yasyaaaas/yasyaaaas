@@ -20,7 +20,7 @@
    <img style="height: 30px" alt="CSS3 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <div style="display: inline_block">
-   <img align="right" height="180em" alt="Image" src="https://media.giphy.com/media/fMVJt07QrNH3O/giphy-downsized.gif">
+   <img align="right" height="180em" alt="Image" src="https://media.giphy.com/media/Ue55CpP8r1lAc/giphy-downsized.gif">
   </div>
  </div>
 
