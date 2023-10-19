@@ -13,6 +13,9 @@
   <a href="https://www.instagram.com/yasmincassemiro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="height: 35px"></></a>
   <a href = "mailto: yasminviegas98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="height: 35px"></></a>
 </br>
+  <div style="display: inline_block">
+   <img align="right" height="180em" alt="Image" src="https://media.giphy.com/media/Ue55CpP8r1lAc/giphy-downsized.gif">
+  </div>
 </div>
 
 ## Aprendendo:
@@ -27,12 +30,9 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img style="height: 40px" alt="CSS3 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <div style="display: inline_block">
-   <img align="right" height="180em" alt="Image" src="https://media.giphy.com/media/Ue55CpP8r1lAc/giphy-downsized.gif">
-  </div>
  </div>
 
- ## Sobre mim: 
+ ### Sobre mim: 
 - 💻 Estudante de Ciência da Computação
 - 🪩 Constantemente em busca de novos aprendizados
 - 🎧 Amante da música
