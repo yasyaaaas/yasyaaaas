@@ -25,12 +25,12 @@
  </div>
 
  ## Sobre mim: 
-- 👾 Estudante do segundo periodo de computação
-- 🔭 Sempre escutando música
-- 🎧
-- 🪩
-- 💻
+- 💻 Estudante de Ciência da Computação
+- 🪩 Constantemente em busca de novos aprendizados
+- 🎧 Amante da música
+- 🔭 Fascinado por astronomia
 
 <!--
 A um passo de me jogar de uma ponte AAAAAAAAAAAAAAAAAAAAAAAAAA
+(Taylor Swift te amo!!!!)
 --> 
