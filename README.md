@@ -1,4 +1,4 @@
-### Oi, eu sou a Yasmin Viegas!
+## Oi, eu sou a Yasmin Viegas!
 
 <div align="center">
 
@@ -7,7 +7,7 @@
  
 </div>
 
-### Aprendendo:
+## Aprendendo:
 <div style="display: inline_block" >
    <img style="height: 30px" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,10 +24,35 @@
   </div>
  </div>
 
- ### Sobre mim: 
+ ## Sobre mim: 
 - 👾 Estudante do segundo periodo de computação
 - 🔭 Sempre escutando música 
 
 <!--
-A um passo de me jogar de uma ponte AAAAAAAAAAAAAA
+A um passo de me jogar de uma ponte AAAAAAAAAAAAAAAAAAAAAAAAAA
+--> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+so deus sabe como está a mente do palhaço AAAAAAAAAAAAAAAAAAAAAAAAAA
 --> 
