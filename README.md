@@ -29,6 +29,7 @@
 - 🪩 Constantemente em busca de novos aprendizados
 - 🎧 Amante da música
 - 🔭 Fascinado por astronomia
+- 📖
 
 <!--
 A um passo de me jogar de uma ponte AAAAAAAAAAAAAAAAAAAAAAAAAA
