@@ -27,7 +27,9 @@
  ## Sobre mim: 
 - 👾 Estudante do segundo periodo de computação
 - 🔭 Sempre escutando música
-- 
+- 🎧
+- 🪩
+- 💻
 
 <!--
 A um passo de me jogar de uma ponte AAAAAAAAAAAAAAAAAAAAAAAAAA
