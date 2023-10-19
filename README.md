@@ -7,6 +7,14 @@
  
 </div>
 
+ ## Redes Sociais
+<div> 
+  <a href="https://www.linkedin.com/in/yasmin-viegas-518948277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="height: 35px"></a> 
+  <a href="https://www.instagram.com/yasmincassemiro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="height: 35px"></></a>
+  <a href = "mailto: yasminviegas98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="height: 35px"></></a>
+</br>
+</div>
+
 ## Aprendendo:
 <div style="display: inline_block" >
    <img style="height: 40px" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
@@ -23,16 +31,6 @@
    <img align="right" height="180em" alt="Image" src="https://media.giphy.com/media/Ue55CpP8r1lAc/giphy-downsized.gif">
   </div>
  </div>
-
- ## Redes Sociais
-<div> 
-  <a href="https://www.linkedin.com/in/yasmin-viegas-518948277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </br>
-  <a href="https://www.instagram.com/yasmincassemiro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="height: 35px"></></a>
-  </br>
-  <a href = "mailto: yasminviegas98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="height: 35px"></></a>
-</br>
-</div>
 
  ## Sobre mim: 
 - 💻 Estudante de Ciência da Computação
