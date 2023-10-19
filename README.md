@@ -24,6 +24,16 @@
   </div>
  </div>
 
+ ## Redes Sociais
+<div> 
+  <a href="https://www.linkedin.com/in/yasmin-viegas-518948277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </br>
+  <a href="https://www.instagram.com/yasmincassemiro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="height: 35px"></></a>
+  </br>
+  <a href = "mailto: yasminviegas98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="height: 35px"></></a>
+</br>
+</div>
+
  ## Sobre mim: 
 - 💻 Estudante de Ciência da Computação
 - 🪩 Constantemente em busca de novos aprendizados
