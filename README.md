@@ -26,33 +26,9 @@
 
  ## Sobre mim: 
 - 👾 Estudante do segundo periodo de computação
-- 🔭 Sempre escutando música 
+- 🔭 Sempre escutando música
+- 
 
 <!--
 A um passo de me jogar de uma ponte AAAAAAAAAAAAAAAAAAAAAAAAAA
---> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-so deus sabe como está a mente do palhaço AAAAAAAAAAAAAAAAAAAAAAAAAA
 --> 
