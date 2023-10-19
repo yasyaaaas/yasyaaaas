@@ -7,7 +7,7 @@
  
 </div>
 
- ## Redes Sociais
+ ## Redes Sociais:
 <div> 
   <a href="https://www.linkedin.com/in/yasmin-viegas-518948277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="height: 35px"></a> 
   <a href="https://www.instagram.com/yasmincassemiro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="height: 35px"></></a>
