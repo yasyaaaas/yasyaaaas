@@ -36,7 +36,7 @@
 - 💻 Estudante de Ciência da Computação
 - 🪩 Constantemente em busca de novos aprendizados
 - 🎧 Amante da música
-- 🔭 Fascinado por astronomia
+- 🔭 Fascinada por astronomia
 - 📖 Gosto de ler em meu tempo livre
 
 <!--
