@@ -14,7 +14,7 @@
   <a href = "mailto: yasminviegas98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="height: 35px"></></a>
 </br>
   <div style="display: inline_block">
-   <img align="right" height="180em" alt="Image" src="https://media.giphy.com/media/14t91QH2dEv9sI/giphy-downsized.gif">
+   <img align="right" height="180em" alt="Image" src="https://media.giphy.com/media/fMVJt07QrNH3O/giphy-downsized.gif">
   </div>
 </div>
 
