@@ -1,4 +1,4 @@
-## Oi, eu sou a Yasmin Viegas!
+## Hi, I'm Yasmin Viegas!
 
 <div align="center">
 
@@ -7,7 +7,7 @@
  
 </div>
 
- ## Redes Sociais:
+ ## Social Media:
 <div> 
   <a href="https://www.linkedin.com/in/yasmin-viegas-518948277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="height: 35px"></a> 
   <a href="https://www.instagram.com/yasmincassemiro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="height: 35px"></></a>
@@ -18,7 +18,7 @@
   </div>
 </div>
 
-## Aprendendo:
+## Learning:
 <div style="display: inline_block" >
    <img style="height: 40px" alt="Java Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,12 +32,11 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </div>
 
- ### Sobre mim: 
-- 💻 Estudante de Ciência da Computação
-- 🪩 Constantemente em busca de novos aprendizados
-- 🎧 Amante da música
-- 🔭 Fascinada por astronomia
-- 📖 Gosto de ler em meu tempo livre
+ ### Abbout me: 
+- 💻 Computer Science student
+- 🪩 Constantly seeking new learning opportunities
+- 🎧 Music enthusiast
+- 🔭 Fascinated by astronomy
 
 <!--
 A um passo de me jogar de uma ponte AAAAAAAAAAAAAAAAAAAAAAAAAA
