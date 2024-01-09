@@ -23,6 +23,7 @@
 
 ## Learning:
 <div style="display: inline_block" >
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img style="height: 40px" alt="Java Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img style="height: 40px" alt="Python Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
