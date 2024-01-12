@@ -36,7 +36,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </div>
 
- ### Abbout me: 
+ ### About me: 
 - 💻 Computer Science student
 - 🪩 Constantly seeking new learning opportunities
 - 🎧 Music enthusiast
