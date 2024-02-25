@@ -13,7 +13,9 @@
  ## Social Media:
 <div> 
   <a href="https://www.linkedin.com/in/yasmin-viegas-518948277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="height: 35px"></a> 
+   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/yasmincassemiro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="height: 35px"></></a>
+   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href = "mailto: yasminviegas98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="height: 35px"></></a>
 </br>
   <div style="display: inline_block">
