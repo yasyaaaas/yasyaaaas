@@ -21,7 +21,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img style="height: 40px" alt="Python Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img style="height: 40px" alt="Node Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-line.svg"/>
+   <img style="height: 40px" alt="Node Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg"/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img style="height: 40px" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
