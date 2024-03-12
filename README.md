@@ -29,7 +29,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </div>
   <div style="display: inline_block">
-   <img align="right" height="180em" alt="Image" src="https://media.giphy.com/media/cgW5iwX0e37qg/giphy.gif">
+   <img align="right" height="180em" alt="Image" src="https://media.giphy.com/media/fMVJt07QrNH3O/giphy-downsized.gif">
   </div>
 </div>
 
