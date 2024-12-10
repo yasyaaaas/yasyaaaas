@@ -44,12 +44,6 @@
   
 </div>
 
- ### About me: 
-- 💻 Computer Science student
-- 🪩 Constantly seeking new learning opportunities
-- 🎧 Music enthusiast
-- 🔭 Fascinated by astronomy
-
 <!--
 A um passo de me jogar de uma ponte AAAAAAAAAAAAAAAAAAAAAAAAAA
 (Taylor Swift te amo!!!!)
