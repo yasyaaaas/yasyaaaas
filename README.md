@@ -23,9 +23,9 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img style="height: 40px" alt="Node Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg"/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img style="height: 40px" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
+   <img style="height: 40px" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img style="height: 40px" alt="C# Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"/>
+   <img style="height: 40px" alt="cpp Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </div>
   <div style="display: inline_block">
