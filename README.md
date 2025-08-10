@@ -16,35 +16,35 @@
 ## Learning:
 <div>
   <div style="display: inline_block" >
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img style="height: 40px" alt="Java Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img style="height: 40px" alt="Python Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img style="height: 40px" alt="cpp Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img style="height: 40px" alt="Node Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg"/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img style="height: 40px" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+   <img style="height: 40px" alt="Python Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img style="height: 40px" alt="cpp Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
+   <img style="height: 40px" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img style="height: 40px" alt="Java Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </div>
   <div style="display: inline_block">
-   <img align="right" height="180em" alt="Image" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVjaDFjNXlnYXRxM3Zjb3ExdG0wcTU5Mm1xdXBzNnBmNGFoYWIyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWKdAMnNgJFLttlbZ7/giphy.gif">
+   <img align="right" height="200em" alt="Image" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVjaDFjNXlnYXRxM3Zjb3ExdG0wcTU5Mm1xdXBzNnBmNGFoYWIyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWKdAMnNgJFLttlbZ7/giphy.gif">
   </div>
 </div>
 
  ### Social Media:
 <div> 
-  <a href="https://www.linkedin.com/in/yasmin-viegas-518948277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="height: 35px"></a> 
+  <a href="https://www.linkedin.com/in/yasmin-viegas-518948277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="height: 40px"></a> 
    &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/yasmincassemiro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="height: 35px"></></a>
+  <a href="https://www.instagram.com/yasmincassemiro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="height: 40px"></></a>
    &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "mailto: yasminviegas98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="height: 35px"></></a>
+  <a href = "mailto: yasminviegas98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="height: 40px"></></a>
 </br>
   
 </div>
 
 <!--
 A um passo de me jogar de uma ponte AAAAAAAAAAAAAAAAAAAAAAAAAA
-(Taylor Swift te amo!!!!)
+(charli xcx te amo!!!!)
 --> 
