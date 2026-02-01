@@ -7,10 +7,10 @@
 
   <a href="https://github.com/yasyaaaas">
    <!--
-   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=yasyaaaas&show_icons=true&theme=radical&include_all_commits=true"/>
-    -->
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasyaaaas&layout=compact&langs_count=12&theme=omni"/>
- 
+   <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=yasyaaaas&show_icons=true&theme=radical&include_all_commits=true"/>
+   --!>
+    
+   <img height="250em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yasyaaaas&layout=compact&langs_count=12&theme=transparent"/>
 </div>
 
 ## Learning:
@@ -45,6 +45,5 @@
 </div>
 
 <!--
-A um passo de me jogar de uma ponte AAAAAAAAAAAAAAAAAAAAAAAAAA
-(charli xcx te amo!!!!)
+(charli xcx te amo!!!! aespa rainhas!!! njz sempre em nossos corações 🕊️)
 --> 
