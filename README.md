@@ -10,7 +10,7 @@
    <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=yasyaaaas&show_icons=true&theme=radical&include_all_commits=true"/>
    --!>
     
-   <img height="250em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yasyaaaas&layout=compact&langs_count=12&theme=transparent"/>
+   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yasyaaaas&theme=transparent&layout=compact&langs_count=12" />
 </div>
 
 ## Learning:
