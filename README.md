@@ -43,10 +43,8 @@
 
 Published at the 22nd International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT), 2026.
 
-- [Read the paper — IEEE Xplore](https://doi.org/10.1109/DCOSS-IoT69657.2026.00173)
-- [Original collaborative repository — AlzheimerMRI](https://github.com/NagibAlexandre/AlzheimerMRI)
-
-My contribution focused on the Federated Learning component. The original repository is maintained as the source of truth for the collaborative codebase, authorship, and commit history.
+- [Read the paper - IEEE Xplore](https://doi.org/10.1109/DCOSS-IoT69657.2026.00173)
+- [Original collaborative repository - AlzheimerMRI](https://github.com/NagibAlexandre/AlzheimerMRI)
 
 <!--
 ## Featured projects
