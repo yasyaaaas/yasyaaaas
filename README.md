@@ -60,6 +60,12 @@ My contribution focused on the Federated Learning component. The original reposi
 --> 
 ## Tech interests
 
+**Languages:** C++, Python, Java, C#  
+**AI/Machine Learning:** PyTorch, scikit-learn, forecasting, recommender systems, embeddings  
+**AI systems:** MCP, tool integration, model serving, evaluation  
+**Software Engineering:** APIs, testing, debugging, distributed systems, Git
+
+<!--
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=cpp,python,cs,java,dart&perline=5)](https://skillicons.dev)
 
@@ -78,6 +84,8 @@ My contribution focused on the Federated Learning component. The original reposi
 [![Engineering](https://skillicons.dev/icons?i=cpp,python,git,github,visualstudio,vscode&perline=6)](https://skillicons.dev)
 
 `APIs` · `Automated Testing` · `Debugging`
+--> 
+
 
 ## Top languages
 
