@@ -26,9 +26,7 @@
 - 💻 Software Engineer Intern at **Cadence Design Systems**, working with AI-related software and MCP.
 - 🧠 Interested in **AI Engineering, ML Systems, predictive modeling, and recommendation systems**.
 - ⚙️ Working primarily with **C++ and Python**.
-- 🔬 Co-author of a research paper on Federated Learning for distributed Alzheimer's disease diagnosis using brain MRI.
 - 📚 B.Sc. in Computer Science - PUC Minas.
-- 🌎 Portuguese (native), English (advanced).
 
 ## What I'm working on
 
